@@ -1,0 +1,15 @@
+C:\Users\Ahmet ŞEN\Desktop\ödev\Zamanlıyıcı ve alarm uygulaması\Zamanlıyıcı ve alarm uygulaması\obj\Debug\Zamanlıyıcı ve alarm uygulaması.csproj.AssemblyReference.cache
+C:\Users\Ahmet ŞEN\Desktop\ödev\Zamanlıyıcı ve alarm uygulaması\Zamanlıyıcı ve alarm uygulaması\obj\Debug\Zamanlıyıcı_ve_alarm_uygulaması.Form1.resources
+C:\Users\Ahmet ŞEN\Desktop\ödev\Zamanlıyıcı ve alarm uygulaması\Zamanlıyıcı ve alarm uygulaması\obj\Debug\Zamanlıyıcı_ve_alarm_uygulaması.Properties.Resources.resources
+C:\Users\Ahmet ŞEN\Desktop\ödev\Zamanlıyıcı ve alarm uygulaması\Zamanlıyıcı ve alarm uygulaması\obj\Debug\Zamanlıyıcı ve alarm uygulaması.csproj.GenerateResource.cache
+C:\Users\Ahmet ŞEN\Desktop\ödev\Zamanlıyıcı ve alarm uygulaması\Zamanlıyıcı ve alarm uygulaması\obj\Debug\Zamanlıyıcı ve alarm uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet ŞEN\Desktop\ödev\Zamanlıyıcı ve alarm uygulaması\Zamanlıyıcı ve alarm uygulaması\bin\Debug\Zamanlıyıcı ve alarm uygulaması.exe.config
+C:\Users\Ahmet ŞEN\Desktop\ödev\Zamanlıyıcı ve alarm uygulaması\Zamanlıyıcı ve alarm uygulaması\bin\Debug\Zamanlıyıcı ve alarm uygulaması.exe
+C:\Users\Ahmet ŞEN\Desktop\ödev\Zamanlıyıcı ve alarm uygulaması\Zamanlıyıcı ve alarm uygulaması\bin\Debug\Zamanlıyıcı ve alarm uygulaması.pdb
+C:\Users\Ahmet ŞEN\Desktop\ödev\Zamanlıyıcı ve alarm uygulaması\Zamanlıyıcı ve alarm uygulaması\obj\Debug\Zamanlıyıcı ve alarm uygulaması.exe
+C:\Users\Ahmet ŞEN\Desktop\ödev\Zamanlıyıcı ve alarm uygulaması\Zamanlıyıcı ve alarm uygulaması\obj\Debug\Zamanlıyıcı ve alarm uygulaması.pdb
+C:\Users\Ahmet ŞEN\Desktop\ödev\Zamanlıyıcı ve alarm uygulaması\Zamanlıyıcı ve alarm uygulaması\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ahmet ŞEN\Desktop\ödev\Zamanlıyıcı ve alarm uygulaması\Zamanlıyıcı ve alarm uygulaması\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ahmet ŞEN\Desktop\ödev\Zamanlıyıcı ve alarm uygulaması\Zamanlıyıcı ve alarm uygulaması\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ahmet ŞEN\Desktop\ödev\Zamanlıyıcı ve alarm uygulaması\Zamanlıyıcı ve alarm uygulaması\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ahmet ŞEN\Desktop\ödev\Zamanlıyıcı ve alarm uygulaması\Zamanlıyıcı ve alarm uygulaması\obj\Debug\Zamanlıyıcı ve alarm uygulaması.csproj.ResolveComReference.cache
